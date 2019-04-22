@@ -1,5 +1,5 @@
 # Think Python:how to think like a computer scientist
-# 《像计算机科学家一样思考python》(第2版)
+《像计算机科学家一样思考python》(第2版)
 
 此书是国外Python的经典教材，非常值得一看。
 
