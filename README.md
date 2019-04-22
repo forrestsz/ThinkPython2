@@ -1,9 +1,12 @@
 # Think Python:how to think like a computer scientist
 《像计算机科学家一样思考python》(第2版)
 
+
 此书是国外学习Python的经典书目，是一本难得的好书。
 
 我在学习过程中，对其进行了整理，并添加了每章习题的答案，可在Jupyter Notebook中阅读并运行代码。
+
+还在更新中
 
 ## 相关推荐
 - Problem Solving with Algorithms and Data Structures Using Python https://github.com/facert/python-data-structure-cn
